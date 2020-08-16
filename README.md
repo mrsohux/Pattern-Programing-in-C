@@ -19,3 +19,11 @@ Output : # 1 * # 2 * # 3 * # 4 *
 [5] Accept number from user and display below pattern.\
 Input : 8 \
 Output : 2 4 6 8 10 12 14 16
+
+[6] Accept number of rows and number of columns from user and display below pattern.\
+Input : iRow = 4 iCol = 4 \
+Output : \
+1 2 3 4 \
+5 6 7 8 \
+9 1 2 3 \
+4 5 6 7 \
