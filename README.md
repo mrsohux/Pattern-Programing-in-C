@@ -139,3 +139,11 @@ Output :\
 2 3 4 5\
 3 4 5 6\
 4 5 6 7
+
+[21] Accept number of rows and number of columns from user and display below pattern.\
+Input : iRow = 4 iCol = 4\
+Output : \
+* # # # <br/>
+* * # # <br/>
+* * * #<br/>
+* * * *
